@@ -135,7 +135,7 @@ questions = [
         }
     },
     {
-        "question": "The United Nations should be abolished.",
+        "question": "The World Assembly should be abolished.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -153,7 +153,7 @@ questions = [
         }
     },
     {
-        "question": "I support regional unions, such as the European Union.",
+        "question": "Erynia and Draconia should remain in the Social Liberal Union.",
         "effect": {
             "econ": -5,
             "dipl": 10,
@@ -189,15 +189,6 @@ questions = [
         }
     },
     {
-        "question": "Wars do not need to be justified to other countries.",
-        "effect": {
-            "econ": 0,
-            "dipl": -10,
-            "govt": -10,
-            "scty": 0
-        }
-    },
-    {
         "question": "Military spending is a waste of money.",
         "effect": {
             "econ": 0,
@@ -216,7 +207,7 @@ questions = [
         }
     },
     {
-        "question": "My nation is great.",
+        "question": "Erynia and Draconia is a great nation.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -276,15 +267,6 @@ questions = [
             "dipl": -5,
             "govt": -10,
             "scty": -5
-        }
-    },
-    {
-        "question": "The general populace makes poor decisions.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": 0
         }
     },
     {
@@ -351,29 +333,11 @@ questions = [
         }
     },
     {
-        "question": "It is important that the government follows the majority opinion, even if it is wrong.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 10,
-            "scty": 0
-        }
-    },
-    {
         "question": "The stronger the leadership, the better.",
         "effect": {
             "econ": 0,
             "dipl": -10,
             "govt": -10,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Democracy is more than a decision-making process.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 10,
             "scty": 0
         }
     },
@@ -558,25 +522,7 @@ questions = [
         }
     },
     {
-        "question": "Prostitution should be illegal.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": -10
-        }
-    },
-    {
         "question": "Maintaining family values is essential.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": -10
-        }
-    },
-    {
-        "question": "To chase progress at all costs is dangerous.",
         "effect": {
             "econ": 0,
             "dipl": 0,
