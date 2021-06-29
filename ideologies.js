@@ -45,11 +45,29 @@ ideologies = [
         }
     },
      {
-        "name": "The Greens",
+        "name": "The Greens (eco-socialist faction)",
         "stats": {
-            "econ": 70,
+            "econ": 77,
             "dipl": 70,
-            "govt": 65,
+            "govt": 60,
+            "scty": 90
+        }
+    },
+         {
+        "name": "The Greens (mainstream faction)",
+        "stats": {
+            "econ": 69,
+            "dipl": 70,
+            "govt": 60,
+            "scty": 90
+        }
+    },
+             {
+        "name": "The Greens (liberal faction)",
+        "stats": {
+            "econ": 57,
+            "dipl": 65,
+            "govt": 60,
             "scty": 90
         }
     },
