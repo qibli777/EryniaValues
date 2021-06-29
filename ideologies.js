@@ -13,16 +13,16 @@ ideologies = [
         "stats": {
             "econ": 100,
             "dipl": 55,
-            "govt": 40,
+            "govt": 50,
             "scty": 80
         }
     },
     {
         "name": "Socialist Alliance (dem. soc. faction)",
         "stats": {
-            "econ": 80,
+            "econ": 85,
             "dipl": 55,
-            "govt": 50,
+            "govt": 60,
             "scty": 80
         }
     },
